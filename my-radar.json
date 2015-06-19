@@ -1,0 +1,21 @@
+{
+    "name": "Test person",
+    "joiningDate": "2015-01-23T09:00:00.000Z",
+    "currentTeam": "Product Q",
+    "assessments" : [
+      {
+        "category" : "Architecture",
+        "labels": ["Grunt", "IBR Framework", "Angular", "Styling"],
+        "ratings": [
+          {
+            "label": "Last month",
+            "data": [1, 1, 4, 2]
+          },
+          {
+            "label": "Current",
+            "data": [2, 5, 4, 3]
+          }
+        ]
+      }
+    ]
+}
